@@ -34,6 +34,7 @@ A full list of key dates on the University calendar are available [here](https:/
 A complete list of the modules available as part of the Structure PhD are available at the [Maynooth University Courses Portal](https://apps.maynoothuniversity.ie/courses/?TARGET=QS&MODE=VIEW&QUALIFICATION_CODE=PHDS&YEAR=2024&TARGET_SOURCE=CS#ANCHOR_SEARCH). Research M.Sc. students and students on both part-time options should also use this page when selecting modules for their programme. The current regulations state that PhD students must successfully complete 30 ECTS, whilst M.Sc. students are required to complete 10 ECTS. In each case, 50% of those ECTS must be *subject specific* modules, whilst the other 50% must be *transferable skills* modules. 
 
 The table below provides a list of modules provided directly by the Department of Computer Science along with their ECTS value and module categorisation:
+
 | Course Code | Course Title                              | Credits        | Module Type       |
 |-------------|-------------------------------------------|----------------|-------------------|
 | CS803       | Rigorous Software Development             | (5 credits)    | Subject Specific  |
@@ -61,7 +62,6 @@ The table below provides a list of modules provided directly by the Department o
 | CS894       | PostGrad certificate in teaching and learning | (5 credits) | Transferable Skills |
 | CS895       | Technical presentation skills             | (5 credits)    | Transferable Skills |
 | CS896       | Computer Science promotion                | (5 credits)    | Transferable Skills |
-
 
 ## Helpful Resources
 - [Maynooth University Graduate Studies Office](https://www.maynoothuniversity.ie/graduate-studies).
