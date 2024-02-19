@@ -24,11 +24,16 @@ A full list of key dates on the University calendar are available [here](https:/
 - 23rd October 2023: CS Research Poster Session (as part of MU Research Week).
 - 31st October 2023: Semester 2 (2022-2023) Research Thesis Submission Exam's Office Deadline.
 - 31st October 2023: Registration Deadline for Research Modules (Semester 1)
+- 16th February 2024: Registration Deadline for Research Modules (Semester 2)
 - 29th Feb 2024: Semester 1 (2023-2024) Research Thesis Submission Exam's Office Deadline.
+- 05th March 2024: Postgraduate Open Evening (3-7pm)
 - 01st April 2024: Submission of substantive review theses for PhD track students (2nd Year).
 - 17th May 2024: Submission of Annual Progress Review Forms ([GSF2](https://www.maynoothuniversity.ie/sites/default/files/assets/document//GSF2%20-%20Annual%20Progress%20Review%20Form%20GRA.docx))
 - 11th June 2024 (Tentative / Subject to change): Computer Science Postgraduate Workshop.
+- TBD June 2024: Preliminary University Research Student Progression Board.
+- TBD August 2024: Autumn University Research Student Progression Board.
 
+As part of the Annual Progress Review Process, initial feedback on their GSF2 form will be provided to all students in advance of the June Research Student Progression Board. 
 
 ## CS Structured Ph.D./M.Sc. Module Categorisation
 A complete list of the modules available as part of the Structure PhD are available at the [Maynooth University Courses Portal](https://apps.maynoothuniversity.ie/courses/?TARGET=QS&MODE=VIEW&QUALIFICATION_CODE=PHDS&YEAR=2024&TARGET_SOURCE=CS#ANCHOR_SEARCH). Research M.Sc. students and students on both part-time options should also use this page when selecting modules for their programme. The current regulations state that PhD students must successfully complete 30 ECTS, whilst M.Sc. students are required to complete 10 ECTS. In each case, 50% of those ECTS must be *subject specific* modules, whilst the other 50% must be *transferable skills* modules. 
