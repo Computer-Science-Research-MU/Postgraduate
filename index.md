@@ -1,4 +1,4 @@
-# Maynooth University Department of Computer Science
+
 # Research Postgraduate Information and Resources
 
 ## Introduction
