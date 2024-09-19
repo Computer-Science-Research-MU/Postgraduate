@@ -15,6 +15,7 @@ Prospective research postgraduate students can find information on our programme
 ## Documents & Policies
 - [Maynooth University Research Student Handbook AY 2023-2024](https://www.maynoothuniversity.ie/sites/default/files/assets/document//M15369%20-%20MAYNOOTH%20UNIVERSITY_Research%20Student%20Handbook%202023_Web.pdf)
 - [Maynooth University Department of Computer Science Research Postgraduate Handbook](Resources/Documents/PG_Handbook_2024.pdf)
+- [PhD by Publication](Resources/Documents/Ph-by-Publication-CS.pdf)
 
 ## Important Dates
 A full list of key dates on the University calendar are available [here](https://www.maynoothuniversity.ie/registrar/key-term-dates). Below are some of the more pertinent dates for CS Research Postgraduates, along with important dates related to activities and deadlines internal to the Computer Science Department.
