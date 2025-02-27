@@ -23,7 +23,7 @@ Prospective research postgraduate students can find information on our programme
 - A full list of key dates are available  on [the University calendar](https://www.maynoothuniversity.ie/registrar/key-term-dates). 
 
 
-## CS Structured Ph.D./M.Sc. Module Categorisation
+## CS Structured Ph.D./M.Sc. Programme
 
 The current regulations state that PhD students must successfully complete 30 ECTS, whilst M.Sc. students are required to complete 10 ECTS. In each case, 50% of those ECTS must be *subject specific* modules, whilst the other 50% must be *transferable skills* modules. 
 
