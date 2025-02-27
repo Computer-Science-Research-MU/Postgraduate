@@ -13,61 +13,28 @@ Prospective research postgraduate students can find information on our programme
 - Department of Computer Science **Research Postgraduate Representative** (Postgraduate Feedback Council): TBD.
 
 ## Documents & Policies
-- [Maynooth University Research Student Handbook AY 2023-2024](https://www.maynoothuniversity.ie/sites/default/files/assets/document//M15369%20-%20MAYNOOTH%20UNIVERSITY_Research%20Student%20Handbook%202023_Web.pdf)
+
+- [Maynooth University Graduate Research Academy Handbooks & Forms](https://www.maynoothuniversity.ie/graduate-research-academy/stipend-and-fees-forms-research-students) for research students.
 - [Maynooth University Department of Computer Science Research Postgraduate Handbook](Resources/Documents/PG_Handbook_2024.pdf)
 - [PhD by Publication](Resources/Documents/PhD-by-Publication-CS.pdf)
 
 ## Important Dates
-A full list of key dates on the University calendar are available [here](https://www.maynoothuniversity.ie/registrar/key-term-dates). Below are some of the more pertinent dates for CS Research Postgraduates, along with important dates related to activities and deadlines internal to the Computer Science Department.
-- 09th August 2023: New Postgrad Registration
-- 08th September 2023: On-Line Registration for Continuing Postgraduates and Diploma Students
-- 28th September 2023: Research Students University Induction
-- 23rd October 2023: CS Research Poster Session (as part of MU Research Week).
-- 31st October 2023: Semester 2 (2022-2023) Research Thesis Submission Exam's Office Deadline.
-- 31st October 2023: Registration Deadline for Research Modules (Semester 1)
-- 16th February 2024: Registration Deadline for Research Modules (Semester 2)
-- 29th Feb 2024: Semester 1 (2023-2024) Research Thesis Submission Exam's Office Deadline.
-- 05th March 2024: Postgraduate Open Evening (3-7pm)
-- 01st April 2024: Submission of substantive review theses for PhD track students (2nd Year).
-- 17th May 2024: Submission of Annual Progress Review Forms ([GSF2](https://www.maynoothuniversity.ie/sites/default/files/assets/document//GSF2%20-%20Annual%20Progress%20Review%20Form%20GRA.docx))
-- 11th June 2024 (Tentative / Subject to change): Computer Science Postgraduate Workshop.
-- TBD June 2024: Preliminary University Research Student Progression Board.
-- TBD August 2024: Autumn University Research Student Progression Board.
 
-As part of the Annual Progress Review Process, initial feedback on their GSF2 form will be provided to all students in advance of the June Research Student Progression Board. 
+- A full list of key dates are available  on [the University calendar](https://www.maynoothuniversity.ie/registrar/key-term-dates). 
+
 
 ## CS Structured Ph.D./M.Sc. Module Categorisation
-A complete list of the modules available as part of the Structure PhD are available at the [Maynooth University Courses Portal](https://apps.maynoothuniversity.ie/courses/?TARGET=QS&MODE=VIEW&QUALIFICATION_CODE=PHDS&YEAR=2024&TARGET_SOURCE=CS#ANCHOR_SEARCH). Research M.Sc. students and students on both part-time options should also use this page when selecting modules for their programme. The current regulations state that PhD students must successfully complete 30 ECTS, whilst M.Sc. students are required to complete 10 ECTS. In each case, 50% of those ECTS must be *subject specific* modules, whilst the other 50% must be *transferable skills* modules. 
 
-The table below provides a list of modules provided directly by the Department of Computer Science along with their ECTS value and module categorisation:
+The current regulations state that PhD students must successfully complete 30 ECTS, whilst M.Sc. students are required to complete 10 ECTS. In each case, 50% of those ECTS must be *subject specific* modules, whilst the other 50% must be *transferable skills* modules. 
 
-| Course Code | Course Title                              | Credits        | Module Type       |
-|-------------|-------------------------------------------|----------------|-------------------|
-| CS803       | Rigorous Software Development             | (5 credits)    | Subject Specific  |
-| CS805       | Mathematics and Theory of CS              | (5 credits)    | Subject Specific  |
-| CS807       | Requirements Engineering & System Design  | (5 credits)    | Subject Specific  |
-| CS808       | Software Testing and Benchmarking         | (5 credits)    | Subject Specific  |
-| CS810       | Human-computer Interaction                | (5 credits)    | Subject Specific  |
-| CS813       | Advanced Concepts in Object-oriented programming | (5 credits) | Subject Specific  |
-| CS815       | Internet solutions engineering            | (5 credits)    | Subject Specific  |
-| CS816       | Practical cryptography                    | (5 credits)    | Subject Specific  |
-| CS819       | Program comprehension                     | (5 credits)    | Subject Specific  |
-| CS820       | Structured Programming                    | (5 credits)    | Subject Specific  |
-| CS827       | Object-oriented Programming               | (5 credits)    | Subject Specific  |
-| CS821       | Spatial databases                         | (5 credits)    | Subject Specific  |
-| NCG601      | Introduction to Geocomputation            | (7.5 credits)  | Subject Specific  |
-| NCG602      | Meth. & Tech. in Geocomputation           | (7.5 credits)  | Subject Specific  |
-| NCG603      | Advanced Topics in Geocomp.               | (7.5 credits)  | Subject Specific  |
-| NCG604      | Remote Sensing and Image Proc.            | (7.5 credits)  | Subject Specific  |
-| NCG605      | Visualisation Methods and Techniques      | (7.5 credits)  | Subject Specific  |
-| CS850       | Summer School Attendance                  | (5 Credits)    | Subject Specific  |
-| CS860       | International conference presentation     | (5 credits)    | Subject Specific  |
-| CS870       | International research placement          | (5 credits)    | Subject Specific  |
-| CS880       | Journal paper publication                 | (5 credits)    | Subject Specific  |
-| CS890       | Undergraduate laboratory demonstration skills | (5 credits) | Transferable Skills |
-| CS894       | PostGrad certificate in teaching and learning | (5 credits) | Transferable Skills |
-| CS895       | Technical presentation skills             | (5 credits)    | Transferable Skills |
-| CS896       | Computer Science promotion                | (5 credits)    | Transferable Skills |
+The CS PhD structured programme has two  mandatory modules covering this 30 ECTS requirement:
+
+- [CS865 Computer Science PhD Year 1](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS865), 15 ECTS
+- [CS875 Computer Science PhD Year 2](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS875), 15 ECTS 
+
+A complete list of additional optional modules available as part of the Structured PhD is provided  on the [Maynooth University Courses Portal](https://apps.maynoothuniversity.ie/courses/?TARGET=QS&MODE=VIEW&QUALIFICATION_CODE=PHDS&TARGET_SOURCE=CS#ANCHOR_SEARCH). 
+
+
 
 ## Helpful Resources
 - [Maynooth University Graduate Studies Office](https://www.maynoothuniversity.ie/graduate-studies).
