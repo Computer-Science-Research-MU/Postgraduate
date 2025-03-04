@@ -20,4 +20,40 @@ The purpose of this handbook is to specify an environment where learning is maxi
 
 This handbook describes department-specific arrangements, and should be read in conjunction with the relevant Maynooth University policies and regulations, available from the [Graduate Studies Office webpage](https://www.maynoothuniversity.ie/graduate-studies) and the [Academic Policies and Procedure Webpage](https://www.maynoothuniversity.ie/university-policies/academic-policies-procedures).
 
-## 1. Before you start
+## 0. Before you start
+
+Successful completion of either an MSc or PhD is a significant undertaking that will require you to work closely with your supervisor typically over a period of two or four years (or more), respectively. 
+
+Part-time students will take longer, as specified in the University regulations. This requires a significant level of commitment both from you and your supervisor. Hence it is essential that prospective students meet with potential supervisors prior to formally applying in order to ensure that 
+1. they are willing to take them on as a student, 
+1. they are someone that they can work closely with over an extended period of time, and
+1.  they are working in an area that the student wishes to carry out their research. 
+
+A list of the current staff members in the department, along with details of their research interests is available from the [department's web pages](https://www.maynoothuniversity.ie/computer-science/our-people).
+
+Once a member of staff has agreed to supervise you, you should work with them to agree the main points of your research programme; specifically:
+
+-	The title, objective, topic, and plan for your research
+-	If funding is available, and how this will be divided between fees, salary and research expenses (e.g.  hardware, travel to conference, etc.)
+-	The duration of your research. The default is two years for an MSc and four years for a PhD; any extension to this must be explicitly agreed with your supervisor
+
+## 1. Once you start
+
+
+### Structured Research Graduate Programmes: 
+
+Since 2012 all research postgraduate students at Maynooth University must be registered on either the structured MSc or structured PhD programme. These structured programmes add to the student experience by offering subject specific modules to enhance the student’s knowledge in their subject area, and by offering transferable skills modules that broaden the student’s skill in areas such as research commercialisation, ethics, etc. 
+
+Over the period of their studies students will be required to accrue a minimum number of ECTS by taking structured modules. The current minimum is:
+- 10 ECTS credits for an MSc 
+- or 30 ECTS credits for a PhD. 
+
+All CS research postgraduate students are required to take the following mandatory modules covering the minimum PhD requirement (30ECTS):
+- [CS865 COMPUTER SCIENCE PHD YEAR 1](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS865)
+- [CS875 COMPUTER SCIENCE PHD YEAR 2](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS875)
+
+In order to be permitted to submit their dissertation, students will first have to have attained these minimum ECTS requirement. 
+
+
+Full details of additional and optional modules that can be chosen by CS research students for their structured MSc and PhD programmes are available through the [university’s course website](https://apps.maynoothuniversity.ie/courses/?TARGET=QS&MODE=VIEW&QUALIFICATION_CODE=PHDS&TARGET_SOURCE=CS).
+
