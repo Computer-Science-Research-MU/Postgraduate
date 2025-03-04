@@ -1,12 +1,12 @@
 
 # Departmental Research Graduate Handbook 
 
-> [!WARNING]  
+
 > this  document is currently undergoing changes or updates: March 2025
 
 
 
-- CS Department Research Postgraduate Coordinator: [Prof John McDonald](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/john-mcdonald) (contact: John.McDonald@mu.ie)
+ CS Department Research Postgraduate Coordinator: [Prof John McDonald](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/john-mcdonald) (contact: John.McDonald@mu.ie)
 
 
 - Head of Department: [Prof. Aidan Mooney](https://www.maynoothuniversity.ie/people/aidan-mooney) 
@@ -15,8 +15,10 @@
 
 - Postgraduate student rep: Frank Gallagher 
 
+```
 
 ``` 
+
 Department of Computer Science
 Maynooth University
 Maynooth 
