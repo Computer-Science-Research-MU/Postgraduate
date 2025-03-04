@@ -234,7 +234,7 @@ In the event of no other funding for travel being available, the department may 
 Students should be aware of the formatting guidelines for theses and the submission procedure; details are available from the websites of the Graduate Studies Office and the Examinations Office. Students should note that MSc and PhD examination boards need to be approved by Faculty in advance of thesis submission, and should consult with their supervisor as regards the appropriate notification schedule.
 
 All artefacts of the research performed during the PhD should be made available  to supervisor, co-authors, DRSPC members, and the examiners  upon their request. 
-These artefacts  include software, data, and any other materials that are necessary to understand and evaluate the work reported in  publications, a reports, and the final thesis. 
+These artefacts  include software, data, and any other materials that are necessary to understand and evaluate the work reported in  publications,  reports, and the final thesis. 
 
 The department recommends that students use a version control system (e.g. git) to manage their research code and data, and that they make their repositories available to the examiners. As per Open Science/FAIR principles, students are encouraged to make their research data and code available to the wider research community and should follow guidance from their supervisor before doing so. 
 
