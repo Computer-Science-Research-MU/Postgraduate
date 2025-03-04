@@ -6,6 +6,7 @@
 
 
 
+
  CS Department Research Postgraduate Coordinator: [Prof John McDonald](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/john-mcdonald) (contact: John.McDonald@mu.ie)
 
 
