@@ -2,7 +2,7 @@
 # Departmental Research Graduate Handbook (in preparation 2025)
 
 
-> CS Department Research Student Coordinator: Prof John McDonald (John.McDonald@mu.ie)
+CS Department Research Student Coordinator: **Prof John McDonald** (John.McDonald@mu.ie)
 
 ``` 
 Department of Computer Science
@@ -30,7 +30,7 @@ Successful completion of either an MSc or PhD is a significant undertaking that 
 Part-time students will take longer, as specified in the University regulations. This requires a significant level of commitment both from you and your supervisor. Hence it is essential that prospective students meet with potential supervisors prior to formally applying in order to ensure that 
 1. they are willing to take them on as a student, 
 1. they are someone that they can work closely with over an extended period of time, and
-1.  they are working in an area that the student wishes to carry out their research. 
+1. they are working in an area that the student wishes to carry out their research. 
 
 A list of the current staff members in the department, along with details of their research interests is available from the [department's web pages](https://www.maynoothuniversity.ie/computer-science/our-people).
 
@@ -49,9 +49,9 @@ Since 2012 all research postgraduate students at Maynooth University must be reg
 
 Over the period of their studies students will be required to accrue a minimum number of ECTS by taking structured modules. The current minimum is:
 - 10 ECTS credits for an MSc 
-- or 30 ECTS credits for a PhD. 
+- 30 ECTS credits for a PhD. 
 
-All CS research postgraduate students are required to take the following mandatory modules covering the minimum PhD requirement (30ECTS):
+All CS research postgraduate students are required to take the following mandatory modules covering the minimum PhD requirement (30 ECTS):
 - [CS865 COMPUTER SCIENCE PHD YEAR 1](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS865)
 - [CS875 COMPUTER SCIENCE PHD YEAR 2](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS875)
 
@@ -69,3 +69,11 @@ If you are a part-time postgraduate student you should ensure that clear arrange
 ### Changes to programme duration or full-time registration status: 
 
 Please note that you cannot unilaterally extend the agreed duration of your research, or switch from full-time to part-time mode, or vice-versa, without your supervisor's agreement. The department cannot guarantee continuing availability of facilities or supervision in the event of a unilateral change. However, the department is willing to accommodate unexpected changes in a student's circumstances and, in such cases, the student should alert their supervisor and the CS Department Research Student Coordinator,   as soon as possible.
+
+## 2. Access to Facilities and Resources
+
+### Departmental Research Labs: 
+
+All full-time research students will initially be allocated a desk and standard PC in one of the departmental research labs. With the agreement of your supervisor, you may alternatively or additionally be allocated space in one of the special-purpose labs, where relevant. You should note that occupying a desk in one of our labs constitutes acceptance of full-time status, and this implies a responsibility to attend department workshops, seminars and participate in research postgraduate related departmental activities.
+
+Part-time postgraduate students and “continuing" full-time students (i.e. PhD registered beyond year 4 and MSc students registered beyond year 2) will not normally have the use of a dedicated desk in the research lab. Subject to availability, facilities in the research labs may be made available for such students at the discretion of the Head of Department. If this is not possible, arrangements will be made for access to shared computing facilities.
