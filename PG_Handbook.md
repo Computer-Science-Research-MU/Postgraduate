@@ -2,7 +2,7 @@
 # Departmental Research Graduate Handbook 
 
 
-> this  document is currently undergoing changes or updates: March 2025
+> this  document is currently undergoing  updates: March 2025
 
 
 
