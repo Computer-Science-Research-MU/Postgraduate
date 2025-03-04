@@ -11,13 +11,12 @@
 
  Head of Department: [Prof. Aidan Mooney](https://www.maynoothuniversity.ie/people/aidan-mooney) 
 
-  [CS865 COMPUTER SCIENCE PHD YEAR 1](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS865) and [CS875 COMPUTER SCIENCE PHD YEAR 2](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS875) modules  Coordinator and chair of CS research committee: [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot)
+ CS865 and CS875 CS PhD Modules  Coordinator: [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot)
 
  Postgraduate student rep: Frank Gallagher 
 
 
 ``` 
-
 Department of Computer Science
 Maynooth University
 Maynooth 
