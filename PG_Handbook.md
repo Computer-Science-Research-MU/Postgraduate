@@ -1,6 +1,9 @@
 
 # Departmental Research Graduate Handbook (in preparation 2025)
 
+
+> CS Department Research Student Coordinator: Prof John McDonald (John.McDonald@mu.ie)
+
 ``` 
 Department of Computer Science
 Maynooth University
@@ -57,3 +60,12 @@ In order to be permitted to submit their dissertation, students will first have 
 
 Full details of additional and optional modules that can be chosen by CS research students for their structured MSc and PhD programmes are available through the [university’s course website](https://apps.maynoothuniversity.ie/courses/?TARGET=QS&MODE=VIEW&QUALIFICATION_CODE=PHDS&TARGET_SOURCE=CS).
 
+### Availability:
+ 
+ As a full-time student you are expected to be available during office hours on a Monday to Friday basis; any significant exceptions to this must be explicitly agreed with your supervisor. In return, your supervisor will provide a reasonable level of interaction and contact for the duration of your studies, and will inform you in advance of any intended sabbaticals or changes to this arrangement.
+
+If you are a part-time postgraduate student you should ensure that clear arrangements are made for regular contact with your supervisor, and that the agreed duration of your research reflects your part-time status.
+
+### Changes to programme duration or full-time registration status: 
+
+Please note that you cannot unilaterally extend the agreed duration of your research, or switch from full-time to part-time mode, or vice-versa, without your supervisor's agreement. The department cannot guarantee continuing availability of facilities or supervision in the event of a unilateral change. However, the department is willing to accommodate unexpected changes in a student's circumstances and, in such cases, the student should alert their supervisor and the CS Department Research Student Coordinator,   as soon as possible.
