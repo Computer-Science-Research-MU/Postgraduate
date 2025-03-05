@@ -61,6 +61,7 @@ A complete list of additional (optional) modules available as part of the Struct
 - [Maynooth University Graduate Research Academy](https://www.maynoothuniversity.ie/graduate-research-academy).
 - [Graduate Research Academy Forms Page](https://www.maynoothuniversity.ie/graduate-research-academy/stipend-and-fees-forms-research-students)
 - [Maynooth University Examinations Office PhD and Masters Information](https://www.maynoothuniversity.ie/exams/postgraduate-information)
+- [https://www.myphd.ie](https://www.myphd.ie/)
 
 
 
