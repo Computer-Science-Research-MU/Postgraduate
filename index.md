@@ -10,13 +10,16 @@ Prospective research postgraduate students can find information on our programme
 
 ## Contacts
 - Department of Computer Science **Research Postgraduate Coordinator**: [Prof. John McDonald](mailto://John.McDonald@mu.ie), Office 115, Eolas Building. 
-- Department of Computer Science **Research Postgraduate Representative** (Postgraduate Feedback Council): TBD.
+- Department of Computer Science **Research Postgraduate Representative** (Postgraduate Feedback Council): Frank Gallagher.
 
 ## Documents & Policies
 
-- [Maynooth University Graduate Research Academy Handbooks & Forms](https://www.maynoothuniversity.ie/graduate-research-academy/stipend-and-fees-forms-research-students) for research students.
-- [Maynooth University Department of Computer Science Research Postgraduate Handbook](Resources/Documents/PG_Handbook_2024.pdf)
+- [MU CS Research Postgraduate Handbook (2025)](PG_Handbook.md)
+- [MU CS Research Postgraduate Handbook (2024)](Resources/Documents/PG_Handbook_2024.pdf)
+
+
 - [PhD by Publication](Resources/Documents/PhD-by-Publication-CS.pdf)
+- [Maynooth University Graduate Research Academy Handbooks & Forms](https://www.maynoothuniversity.ie/graduate-research-academy/stipend-and-fees-forms-research-students) for research students.
 
 ## Important Dates
 
@@ -32,7 +35,24 @@ The CS PhD structured programme has two  mandatory modules covering this 30 ECTS
 - [CS865 Computer Science PhD Year 1](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS865), 15 ECTS
 - [CS875 Computer Science PhD Year 2](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS875), 15 ECTS 
 
-A complete list of additional optional modules available as part of the Structured PhD is provided  on the [Maynooth University Courses Portal](https://apps.maynoothuniversity.ie/courses/?TARGET=QS&MODE=VIEW&QUALIFICATION_CODE=PHDS&TARGET_SOURCE=CS#ANCHOR_SEARCH). 
+A complete list of additional (optional) modules available as part of the Structured PhD is provided  on the [Maynooth University Courses Portal](https://apps.maynoothuniversity.ie/courses/?TARGET=QS&MODE=VIEW&QUALIFICATION_CODE=PHDS&TARGET_SOURCE=CS#ANCHOR_SEARCH). 
+
+
+#### Timeline Overview  for CS Structured PhD/MSc Programme (Full-time)
+
+| Year | CS Mandatory Modules | Notable Deliverables (PhD) | Notable Deliverables (MSc) |
+|------|----------------------|----------------------------|----------------------------|
+| 1    | CS865                |                            |                            |
+| 2    | CS875                | Interim thesis with defence (DRSPC panel) | MSc thesis                 |
+| 3    |                      |                            |                            |
+| 4    |                      | PhD thesis with defence    |                            |  
+
+**Notes:**
+
+- Research students' work is reviewed each year for progression to the next year of the CS PhD/MSc programme. 
+- Part-time research students are expected to complete the programme in 6 years (PhD) and 3 years (MSc).
+- Full-time students usually work 9am-5pm and some work outside these hours. Holidays are equivalent to when in employment (~4 weeks per year). Full-time students are expected to work five days a week. Part-time students typically have 2/3 of the commitment of full-time students (source: see [MyPhD FAQ](https://www.myphd.ie/for-phd-students/faq)).
+
 
 
 
