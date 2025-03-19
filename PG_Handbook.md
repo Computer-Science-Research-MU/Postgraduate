@@ -36,7 +36,10 @@ The department's research postgraduate community has a central role to play in e
 
 The purpose of this handbook is to specify an environment where learning is maximised: both individually, through your own research, and as a group through participation in postgraduate workshop and related activities. Research postgraduates are unique in the student community in that their work has to regularly attain the highest international standards to merit publication, and it is vital that the department fosters an environment that facilitates this.
 
-This handbook describes department-specific arrangements, and should be read in conjunction with the relevant Maynooth University policies and regulations, available from the [Graduate Studies Office webpage](https://www.maynoothuniversity.ie/graduate-studies) and the [Academic Policies and Procedure Webpage](https://www.maynoothuniversity.ie/university-policies/academic-policies-procedures).
+This handbook describes department-specific arrangements, and should be read in conjunction with the relevant Maynooth University policies and regulations, available from the [Graduate Studies Office webpage](https://www.maynoothuniversity.ie/graduate-studies),  the [Academic Policies and Procedure Webpage](https://www.maynoothuniversity.ie/university-policies/academic-policies-procedures) and the [Irish university doctoral Skills Statement](https://www.iua.ie/wp-content/uploads/2021/07/IUA-PhD-Graduate-Skills-Statement-2021-final.pdf) provided by the Irish University Association (IUA).
+
+
+
 
 ## 0. Before you start
 
@@ -77,8 +80,15 @@ Full details of additional and optional modules that can be chosen by CS researc
 
 ### Availability:
  
- As a full-time student you are expected to be available during office hours on a Monday to Friday basis; any significant exceptions to this must be explicitly agreed with your supervisor. In return, your supervisor will provide a reasonable level of interaction and contact for the duration of your studies, and will inform you in advance of any intended sabbaticals or changes to this arrangement.
+ 
 
+
+Full-time research postgrad  students usually work 9am-5pm and some work outside these hours. Students take holidays equivalent to when in employment ~4 weeks per year. 
+
+>  Reference: [myphd.ie: What does the typical day of a PhD student look like?](https://www.myphd.ie/for-phd-students/faq)).
+        
+
+ 
 If you are a part-time postgraduate student you should ensure that clear arrangements are made for regular contact with your supervisor, and that the agreed duration of your research reflects your part-time status.
 
 ### Changes to programme duration or full-time registration status: 
@@ -89,7 +99,13 @@ Please note that you cannot unilaterally extend the agreed duration of your rese
 
 ### Departmental Research Labs: 
 
-All full-time research students will initially be allocated a desk and standard PC in one of the departmental research labs. With the agreement of your supervisor, you may alternatively or additionally be allocated space in one of the special-purpose labs, where relevant. You should note that occupying a desk in one of our labs constitutes acceptance of full-time status, and this implies a responsibility to attend department workshops, seminars and participate in research postgraduate related departmental activities.
+
+Early-stage researchers, including research students and research fellows, are provided with  space and IT support in the CS department (Eolas Building, MU campus), and also benefit from the same working  flexibility and constraints as academic staff in the CS department. 
+
+All full-time research students will initially be allocated a desk and standard PC in one of the departmental research labs. With the agreement of your supervisor, you may alternatively or additionally be allocated space in one of the special-purpose labs, where relevant. 
+
+Full time research students have 
+ a responsibility to attend department workshops, seminars and participate in research postgraduate related departmental activities.
 
 Part-time postgraduate students and “continuing" full-time students (i.e. PhD registered beyond year 4 and MSc students registered beyond year 2) will not normally have the use of a dedicated desk in the research lab. Subject to availability, facilities in the research labs may be made available for such students at the discretion of the Head of Department. If this is not possible, arrangements will be made for access to shared computing facilities.
 
@@ -109,13 +125,16 @@ Attendance at departmental seminars, including seminars from postgraduate studen
 
 ### Computer Science Research Postgraduate Workshop: 
 
-Each year the department will hold a Computer Science Research Postgraduate Workshop; typically at the end academic year. The aim of the workshop is to provide a forum for research postgraduates to present their ongoing research activities, and to promote interaction between research postgraduates and the wider department.
+Each year the department will hold a Computer Science Research Postgraduate Workshop; typically at the end academic year (?June). The aim of the workshop is to provide a forum for research postgraduates to present their ongoing research activities, and to promote interaction between research postgraduates and the wider department.
 
-The format of the workshop will be for all research postgraduate students in their 2nd or later year to give a 20 min presentation on their research. Each seminar should be on a topic relevant to the student’s research and might include a review of related work by others, an overview of the student’s progress to date, or a snapshot of their latest work. In all cases, the content of the student’s seminar should be discussed in advance with their supervisor, who will be able to advise them on the most suitable content, focus and approach.
+The format of the workshop will be for all research postgraduate students  to give a 20 min presentation on their research. Each seminar should be on a topic relevant to the student’s research and might include a review of related work by others, an overview of the student’s progress to date, or a snapshot of their latest work. In all cases, the content of the student’s seminar should be discussed in advance with their supervisor, who will be able to advise them on the most suitable content, focus and approach.
 
 Students that are in their first year of study are not obliged to present at the workshop but are very welcome (and encouraged) to do so if they wish. For example presentations surveying their area of research and a summary of their proposed thesis would be very welcome.
 
 The annual workshop provides an important element in the department assessment of the progress of research students. As such participation in the workshop is mandatory. However, in circumstances where it is not possible to attend e.g. due to a student being registered part-time, or located off-campus, students may arrange with the department to give a seminar separate from the workshop.
+
+Additionally, a poster presentation by  CS research students is organised as part of [MU research week ](https://www.maynoothuniversity.ie/research-week) (~October).
+
 
 ## 4 Departmental policy on Progress Evaluation, including course requirements if applicable
 
@@ -217,6 +236,7 @@ Also, you should note that the Maynooth University plagiarism policy (described 
 
 Your supervisor will be able to advise you on any other guidelines relevant to your specific field of research.
 
+
 ## 7. Departmental policy regarding inter library loans
 
 The Inter Library Loan (ILL) allocation for postgraduate students is fixed at approximately 10 ILLs per year. In practice, the availability of electronic journals through the NUIM library and IReL (the Irish Research eLibrary) means that many postgraduates will not have to use ILLs. However, if you reach your ILL limit during the year you should discuss getting it extended with your supervisor.
@@ -237,6 +257,10 @@ All artefacts of the research performed during the PhD should be made available 
 These artefacts  include software, data, and any other materials that are necessary to understand and evaluate the work reported in  publications,  reports, and the final thesis. 
 
 The department recommends that students use a version control system (e.g. git) to manage their research code and data, and that they make their repositories available to the examiners. As per Open Science/FAIR principles, students are encouraged to make their research data and code available to the wider research community and should follow guidance from their supervisor before doing so. 
+
+
+Early-stage researchers, including research students and research fellows, work as a team with their respective PI and/or supervisors. All research outputs (e.g. publications, software, datasets) need prior approval by supervisor/PI (team leader) before submission for  publication. 
+
 
 ## 10.	International journals and conference publications and presentations
 
