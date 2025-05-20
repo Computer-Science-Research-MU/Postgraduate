@@ -32,20 +32,20 @@ The goal of the Maynooth University Department of Computer Science is the develo
 1. 	promotion of the discipline through engaging with the wider society via outreach activities, liaising with national and international bodies (e.g. the ICS, ACM, IEEE), etc. 
 
  <div align="justify"> 
-The department's research postgraduate community has a central role to play in each of these activities primarily through their research, but also through involvement in wide spectrum of the department's activities. The strategic plans of both the department and the university prioritise the continuing development of the research postgraduate environment to provide an engine of learning at the core of our work.</div>
+The department's research postgraduate community has a central role to play in each of these activities primarily through their research, but also through involvement in wide spectrum of the department's activities. The strategic plans of both the department and the university prioritise the continuing development of the research postgraduate environment to provide an engine of learning at the core of our work.
 
 The purpose of this handbook is to specify an environment where learning is maximised: both individually, through your own research, and as a group through participation in postgraduate workshop and related activities. Research postgraduates are unique in the student community in that their work has to regularly attain the highest international standards to merit publication, and it is vital that the department fosters an environment that facilitates this.
 
 This handbook describes department-specific arrangements, and should be read in conjunction with the relevant Maynooth University policies and regulations, available from the [Graduate Studies Office webpage](https://www.maynoothuniversity.ie/graduate-studies),  the [Academic Policies and Procedure Webpage](https://www.maynoothuniversity.ie/university-policies/academic-policies-procedures) and the [Irish university doctoral Skills Statement](https://www.iua.ie/wp-content/uploads/2021/07/IUA-PhD-Graduate-Skills-Statement-2021-final.pdf) provided by the Irish University Association (IUA).
 
-
+</div>
 
 
 ## 0. Before you start
 
 Successful completion of either an MSc or PhD is a significant undertaking that will require you to work closely with your supervisor typically over a period of two or four years (or more), respectively. 
 
-Part-time students will take longer, as specified in the University regulations. This requires a significant level of commitment both from you and your supervisor. Hence it is essential that prospective students meet with potential supervisors prior to formally applying in order to ensure that 
+Part-time students will take longer, as specified in the University regulations. This requires a significant level of commitment both from you and your supervisor. Hence it is essential that prospective students meet with potential supervisors prior to formally applying in order to ensure that: 
 1. they are willing to take them on as a student, 
 1. they are someone that they can work closely with over an extended period of time, and
 1. they are working in an area that the student wishes to carry out their research. 
