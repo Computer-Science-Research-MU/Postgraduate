@@ -116,29 +116,35 @@ The department reserves the right to reallocate desks within the research labs w
 ### Equipment, IPs and Data Protection
 
 Researchers are not allowed to move and use any research equipment  outside the research labs on Maynooth Campus  without prior permission from their supervisors (or PI). 
-Researchers are not allowed to bring  MU research equipment (e.g. laptops) outside of the country without prior permission from their supervisors (or PI).
-Moreover, researchers should take appropriate precautions to protect university owned data and IPs on all their devices 
+Moreover, researchers are not allowed to bring  MU research equipment (e.g. laptops) outside of the country without prior permission from their supervisors (or PI).
+Finally, researchers should take appropriate precautions to protect university owned data and IPs on all their devices 
 (e.g. work laptops, private mobile phones) before  travelling.
 
 ### Departmental Email: 
 
-The primary means of contact between members of the department and research students is via their University email address (i.e. the one ending in @mumail.ie). You may have other email addresses associated with other aspects of your work, but you should make sure to check your department email address regularly.
+The primary means of contact between members of the department and research students is via their University email address (i.e. the one ending in `@mumail.ie` (students) or `@mu.ie` (staff)). You may have other email addresses associated with other aspects of your work, but you should make sure to check your department email address regularly.
 
 ## 3. Departmental policy on the timing and mode of presentation of reports, reviews, seminars and examinations by which the student is assessed
 
-Departmental Research Seminars: Departmental research seminars and the annual CS research postgraduate workshop are vital parts of the department's research activities. They provide you with an opportunity to present your own research and receive feedback, to learn from the research of others, and potentially to identify overlaps and synergies between researchers both at Maynooth and from further afield.
+### Departmental Research Seminars 
+
+Departmental research seminars and the annual CS research postgraduate workshop are vital parts of the department's research activities. They provide you with an opportunity to present your own research and receive feedback, to learn from the research of others, and potentially to identify overlaps and synergies between researchers both at Maynooth and from further afield.
 
 Attendance at departmental seminars, including seminars from postgraduate students, postdocs, staff and external speakers is expected from all full-time postgraduates. A student’s level of attendance for the year may be taken into account by the departmental research student progress committee when considering their annual progress report.
 
-### Computer Science Research Postgraduate Workshop: 
+### Computer Science Research Postgraduate Workshop 
 
-Each year the department will hold a Computer Science Research Postgraduate Workshop; typically at the end academic year (?June). The aim of the workshop is to provide a forum for research postgraduates to present their ongoing research activities, and to promote interaction between research postgraduates and the wider department.
+Each year the department will hold a Computer Science Research Postgraduate Workshop; typically at the end academic year (usually organised in June). The aim of the workshop is to provide a forum for research postgraduates to present their ongoing research activities, and to promote interaction between research postgraduates and the wider department.
 
 The format of the workshop will be for all research postgraduate students  to give a 20 min presentation on their research. Each seminar should be on a topic relevant to the student’s research and might include a review of related work by others, an overview of the student’s progress to date, or a snapshot of their latest work. In all cases, the content of the student’s seminar should be discussed in advance with their supervisor, who will be able to advise them on the most suitable content, focus and approach.
 
 Students that are in their first year of study are not obliged to present at the workshop but are very welcome (and encouraged) to do so if they wish. For example presentations surveying their area of research and a summary of their proposed thesis would be very welcome.
 
 The annual workshop provides an important element in the department assessment of the progress of research students. As such participation in the workshop is mandatory. However, in circumstances where it is not possible to attend e.g. due to a student being registered part-time, or located off-campus, students may arrange with the department to give a seminar separate from the workshop.
+
+[Workshop website](https://www.cs.nuim.ie/research/csworkshop/)
+
+### Poster presentation at MU research week
 
 Additionally, a poster presentation by  CS research students is organised as part of [MU research week ](https://www.maynoothuniversity.ie/research-week) (~October).
 
