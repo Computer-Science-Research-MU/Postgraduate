@@ -24,7 +24,7 @@ format:
 
  Head of Department: [Prof. Aidan Mooney](https://www.maynoothuniversity.ie/people/aidan-mooney) 
 
- CS865 and CS875 CS PhD Modules  Coordinator: [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot)
+ [CS865](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS865) and [CS875](https://apps.maynoothuniversity.ie/courses/?TARGET=MODULE&MODE=VIEW&MODULE_CODE=CS875) CS PhD Modules  Coordinator: [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot)
 
  Postgraduate student rep: Frank Gallagher 
 
