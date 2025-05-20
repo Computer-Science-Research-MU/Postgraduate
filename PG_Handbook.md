@@ -6,7 +6,6 @@
 
 
 
-
  CS Department Research Postgraduate Coordinator: [Prof John McDonald](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/john-mcdonald) (contact: John.McDonald@mu.ie)
 
 
@@ -112,6 +111,13 @@ Part-time postgraduate students and “continuing" full-time students (i.e. PhD 
 You are reminded to consult the Maynooth University and Department of Computer Science codes of conduct regarding the use of university equipment; details can be found in the Student Handbook, available on the [department's web-site](https://www.maynoothuniversity.ie/computer-science/).
 
 The department reserves the right to reallocate desks within the research labs when necessary. Prior to reallocating a student’s desk the postgraduate coordinator will contact the student via their mumail.ie email address requesting that they clear the space of personal items, equipment, etc. and giving them a reasonable timeframe within which to do so. In the event that the student fails to clear the space within the requested timeframe, the department reserves the right to clear the space, and in exceptional circumstances, to dispose of equipment or other materials.
+
+### Equipment, IPs and Data Protection
+
+Researchers are not allowed to move and use any research equipment  outside the research labs on Maynooth Campus  without prior permission from their supervisors (or PI). 
+Researchers are not allowed to bring  MU research equipment (e.g. laptops) outside of the country without prior permission from their supervisors (or PI).
+Moreover, researchers should take appropriate precautions to protect university owned data and IPs on all their devices 
+(e.g. work laptops, private mobile phones) before  travelling.
 
 ### Departmental Email: 
 
@@ -303,3 +309,10 @@ In situations where the supervisor leaves the department, a replacement supervis
 ## 13. Requirements for student training in health and safety issues
 
 Students are advised to consult the safety statement for the department, available from the department's internal web-site.
+
+## 14. Use of Generative AI in research
+
+The use of Generative AI (GenAI) in research is a rapidly evolving area, and students are encouraged to consult [MU  guideline on GenAI](https://www.maynoothuniversity.ie/sites/default/files/assets/document/Guidance).
+More specifically in CS,  we currently recommend following  [IEEE RAS guidelines for Generative AI usage](https://www.ieee-ras.org/publications/guidelines-for-generative-ai-usage).
+Researchers are encouraged to discuss openly their usage of GenAI with their peers (research students, researchers, supervisors, co-authors, etc.).
+
