@@ -1,3 +1,16 @@
+---
+title: "Research Graduate Handbook"
+subtitle: "CS Department"
+
+author: "CS Research committee"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+    embed-resources: True
+---
+
 
 # Departmental Research Graduate Handbook 
 
