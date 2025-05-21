@@ -17,7 +17,7 @@ Prospective research postgraduate students can find information on our programme
 - [MU CS Research Postgraduate Handbook (2025)](PG_Handbook.md)
 - [MU CS Research Postgraduate Handbook (2024)](Resources/Documents/PG_Handbook_2024.pdf)
 
-- [PhD by Publication](Resources/Documents/PhD-by-Publication-CS.pdf) and also see [MU GRA **postgraduate policies**](https://www.maynoothuniversity.ie/university-policies/academic-policies-procedures) about *PhD by Publications* and *PhD by Prior Published Works*.
+- [PhD by Publication](Resources/Documents/PhD-by-Publication-CS.pdf) and also see [MU GRA **postgraduate policies**](https://www.maynoothuniversity.ie/university-policies/academic-policies-procedures) about `PhD by Publications` and `PhD by Prior Published Works`.
   
 - [Maynooth University Graduate Research Academy Handbooks & Forms](https://www.maynoothuniversity.ie/graduate-research-academy/stipend-and-fees-forms-research-students) for research students.
 
