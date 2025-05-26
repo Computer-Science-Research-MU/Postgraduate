@@ -319,7 +319,7 @@ Students are advised to consult the safety statement for the department, availab
 
 ## 14. Use of Generative AI in research
 
-The use of Generative AI (GenAI) in research is a rapidly evolving area, and students are encouraged to consult [MU  guideline on GenAI](https://www.maynoothuniversity.ie/sites/default/files/assets/document/Guidance).
+The use of Generative AI (GenAI) in research is a rapidly evolving area, and students are encouraged to consult [MU  guideline on GenAI](https://www.maynoothuniversity.ie/centre-teaching-and-learning/genai-guidelines-teaching-learning-and-assessment).
 More specifically in CS,  we currently recommend following  [IEEE RAS guidelines for Generative AI usage](https://www.ieee-ras.org/publications/guidelines-for-generative-ai-usage).
 Researchers are encouraged to discuss openly their usage of GenAI with their peers (research students, researchers, supervisors, co-authors, etc.).
 
